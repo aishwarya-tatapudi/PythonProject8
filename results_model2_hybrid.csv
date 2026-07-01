@@ -1,0 +1,3 @@
+language,accuracy,detection_rate,fpr,fnr,tp,tn,fp,fn,rule_injection,rule_safe,svm_used
+HINDI,0.97,0.965,0.025,0.035,193,195,5,7,18,25,357
+HINGLISH,0.885,0.91,0.14,0.09,182,172,28,18,21,22,357

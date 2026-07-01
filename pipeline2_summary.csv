@@ -1,0 +1,2 @@
+pipeline,dataset,n_train,n_test,threshold,svm_only_accuracy,full_pipeline_accuracy,fpr,fnr,tpr,gate_blocks,svm_blocks,safe
+Pipeline 2 — English,SPML,5552,1388,0.1,0.989193083573487,0.9034582132564841,0.1786743515850144,0.01440922190201729,0.9855907780979827,139,669,580
